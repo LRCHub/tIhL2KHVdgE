@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "STYX HELIX",
+  "base_artist": "MYTH & ROID",
+  "createdAt": "2025-12-26T15:34:34.637471Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "STYX HELIX",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/01_STYX_HELIX_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "STYX HELIX - KIHOW Style edition",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/02_STYX_HELIX_-_KIHOW_Style_edition_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STYX HELIX -KIHOW Style edition-",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/03_STYX_HELIX_-KIHOW_Style_edition-_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "STYX HELIX",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/04_STYX_HELIX_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STYX HELIX (ED)*",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/05_STYX_HELIX_(ED)_MYTH_&_ROID.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Styx Helix (From \"Re: Zero\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/06_Styx_Helix_(From__Re__Zero_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "STYX HELIX (From \"Re:Zero\") (Feat. Akano) [TV Size]",
+      "artist": "dj-Jo feat. Akano",
+      "has_synced": true,
+      "path": "select/07_STYX_HELIX_(From__Re_Zero_)_(Feat._Akano)_[TV_Size]_dj-Jo_feat._Akano.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "STYX HELIX (From \"Re:Zero\") (Feat. Akano) [Extended]",
+      "artist": "dj-Jo",
+      "has_synced": true,
+      "path": "select/08_STYX_HELIX_(From__Re_Zero_)_(Feat._Akano)_[Extended]_dj-Jo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Styx Helix",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/09_Styx_Helix_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "STYX HELIX",
+      "artist": "Sati Akura",
+      "has_synced": false,
+      "path": "select/10_STYX_HELIX_Sati_Akura.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "STYX HELIX (From \"Re:Zero\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/11_STYX_HELIX_(From__Re_Zero_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "STYX HELIX (From ReZero)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/12_STYX_HELIX_(From_ReZero)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "STYX HELIX",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/13_STYX_HELIX_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "STYX HELIX",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/14_STYX_HELIX_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Styx Helix",
+      "artist": "Myth",
+      "has_synced": true,
+      "path": "select/15_Styx_Helix_Myth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STYX HELIX",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/pl_01_STYX_HELIX_MYTH_&_ROID.txt"
+    }
+  ]
+}
